@@ -17,7 +17,7 @@ The flight data is in a file that contains information about different flights a
 * At least one other statistic that you find interesting
 
 **Minimum Viable Product (MVP)**
-The MVP for this project will be a web application that provides the following features:
+*The MVP for this project will be a web application that provides the following features:
 
 A user interface for accessing the Flight Data API.
 The ability to retrieve the following data points:
