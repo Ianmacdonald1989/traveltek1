@@ -37,19 +37,6 @@ It will allow users to access the Flight Data API easily and conveniently.
 
 It will allow users to retrieve the data they need quickly and easily.
 
-It will allow users to export the data to a CSV file for further analysis.
-
-Next Steps
-
-The next steps for the project are to:
-
-Develop the MVP.
-Test the MVP.
-Deploy the MVP.
-Gather feedback from users.
-Improve the MVP based on feedback.
-The MVP will be a valuable tool for users who need to access flight data. It will be easy to use and will provide users with the data they need quickly and easily.
-
 
 ## Getting Started
 
