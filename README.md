@@ -3,7 +3,6 @@
 
 ## Brief
 
-Create an application that allows users .
 This project will create a web application that provides access to flight data and performs some basic analysis on the data. The application will consist of two parts:
 
 An API that provides access to the flight data in JSON format.
