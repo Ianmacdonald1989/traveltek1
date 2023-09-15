@@ -12,6 +12,8 @@ useEffect(() => {
     fetch('http://localhost:9000/api/flights')
     .then(response => response.json())
     .then(flights => {setFlights(flights)})
+
+    //Morning flights - not able to find number of flights yet 
     .then(morningFlights => { (flights.filter(flight => new Date(flight._attributes.indeparttime) <= new Date('12:00:00')
     )
         );
@@ -21,6 +23,8 @@ useEffect(() => {
     });
 }, []);
 
+
+//Sweden percentage - not able to find percentage of flights to Sweden yet
 
 useEffect(() => {
     const percentageSwedenFlights = (

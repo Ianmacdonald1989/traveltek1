@@ -1,3 +1,5 @@
+//Converting xml file into JSON file and passing it through as a javascript object notation to be able to minipulate data easier 
+
 const convert = require('xml-js');
 const xml = require('fs').readFileSync('./flighdata_A.xml', 'utf8');
 
