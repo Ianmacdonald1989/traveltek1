@@ -69,3 +69,13 @@ Make sure you have the following software installed on your system:
 ## Authors
 
 This application was developed by Ian Macdonald.
+
+## Screenshots 
+<img width="1396" alt="Screenshot 2023-09-15 at 11 23 51" src="https://github.com/Ianmacdonald1989/traveltek1/assets/127326567/d3616965-1652-4a12-a934-19eb5e0127e5">
+
+<img width="1383" alt="Screenshot 2023-09-15 at 11 24 01" src="https://github.com/Ianmacdonald1989/traveltek1/assets/127326567/ed61e463-c229-49e6-863c-3bc9ce7251a5">
+
+
+<img width="1379" alt="Screenshot 2023-09-15 at 11 24 11" src="https://github.com/Ianmacdonald1989/traveltek1/assets/127326567/6cd11db8-6e1e-4af1-a674-06ed523f3153">
+
+
